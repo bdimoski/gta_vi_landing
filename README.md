@@ -73,7 +73,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/bdimoski/gta_vi_landing.git
+git clone https://github.com/your-username/gta_vi_landing.git
 cd gta_vi_landing
 ```
 
@@ -103,10 +103,10 @@ gta_vi_landing/
 │   └── videos/         # Video assets
 ├── src/
 │   ├── sections/       # Page sections (Hero, Navbar, Character sections, etc.)
-│   ├── constants/      # Constants and utilities (mask settings, responsive hooks)
 │   ├── App.jsx         # Main application component
 │   ├── main.jsx        # Application entry point
 │   └── index.css       # Global styles and Tailwind imports
+├── constants/          # Constants and utilities (mask settings, responsive hooks)
 ├── vite.config.js      # Vite configuration
 ├── tailwind.config.js  # Tailwind CSS configuration (v4)
 ├── eslint.config.js    # ESLint configuration
