@@ -107,8 +107,7 @@ gta_vi_landing/
 │   ├── main.jsx        # Application entry point
 │   └── index.css       # Global styles and Tailwind imports
 ├── constants/          # Constants and utilities (mask settings, responsive hooks)
-├── vite.config.js      # Vite configuration
-├── tailwind.config.js  # Tailwind CSS configuration (v4)
+├── vite.config.js      # Vite configuration (includes Tailwind CSS v4 plugin)
 ├── eslint.config.js    # ESLint configuration
 └── package.json        # Project dependencies and scripts
 ```
