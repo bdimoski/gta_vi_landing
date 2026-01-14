@@ -1,4 +1,5 @@
 <div align="center">
+  <img src=https://res.cloudinary.com/duodu8cgp/image/upload/v1768426075/gta_ykxyi4.png alt="Project Banner">
   <br />
   <h1>🎮 GTA VI Landing Page</h1>
   <br />
